@@ -1,0 +1,8 @@
+C:\Users\bzmen\Desktop\RutRefProj\Excel\Excel.DataAccess\bin\Debug\Excel.DataAccess.dll
+C:\Users\bzmen\Desktop\RutRefProj\Excel\Excel.DataAccess\bin\Debug\Excel.DataAccess.pdb
+C:\Users\bzmen\Desktop\RutRefProj\Excel\Excel.DataAccess\bin\Debug\Excel.Entities.dll
+C:\Users\bzmen\Desktop\RutRefProj\Excel\Excel.DataAccess\bin\Debug\Excel.Entities.pdb
+C:\Users\bzmen\Desktop\RutRefProj\Excel\Excel.DataAccess\obj\Debug\ExcelProject.DataAccess.csprojAssemblyReference.cache
+C:\Users\bzmen\Desktop\RutRefProj\Excel\Excel.DataAccess\obj\Debug\ExcelProject.DataAccess.csproj.CopyComplete
+C:\Users\bzmen\Desktop\RutRefProj\Excel\Excel.DataAccess\obj\Debug\Excel.DataAccess.dll
+C:\Users\bzmen\Desktop\RutRefProj\Excel\Excel.DataAccess\obj\Debug\Excel.DataAccess.pdb

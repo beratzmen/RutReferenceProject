@@ -1,0 +1,10 @@
+C:\Users\bzmen\Desktop\RutRefProj\Excel\ExcelProject.Business\bin\Debug\ExcelProject.Business.dll
+C:\Users\bzmen\Desktop\RutRefProj\Excel\ExcelProject.Business\bin\Debug\ExcelProject.Business.pdb
+C:\Users\bzmen\Desktop\RutRefProj\Excel\ExcelProject.Business\bin\Debug\Excel.DataAccess.dll
+C:\Users\bzmen\Desktop\RutRefProj\Excel\ExcelProject.Business\bin\Debug\Excel.Entities.dll
+C:\Users\bzmen\Desktop\RutRefProj\Excel\ExcelProject.Business\bin\Debug\Excel.DataAccess.pdb
+C:\Users\bzmen\Desktop\RutRefProj\Excel\ExcelProject.Business\bin\Debug\Excel.Entities.pdb
+C:\Users\bzmen\Desktop\RutRefProj\Excel\ExcelProject.Business\obj\Debug\ExcelProject.Business.csprojAssemblyReference.cache
+C:\Users\bzmen\Desktop\RutRefProj\Excel\ExcelProject.Business\obj\Debug\ExcelProject.Business.csproj.CopyComplete
+C:\Users\bzmen\Desktop\RutRefProj\Excel\ExcelProject.Business\obj\Debug\ExcelProject.Business.dll
+C:\Users\bzmen\Desktop\RutRefProj\Excel\ExcelProject.Business\obj\Debug\ExcelProject.Business.pdb

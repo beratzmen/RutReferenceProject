@@ -1,0 +1,16 @@
+C:\Users\bzmen\Desktop\RutRefProj\Excel\ExcelProject.WinFormUI\bin\Debug\ExcelProject.WinFormUI.exe.config
+C:\Users\bzmen\Desktop\RutRefProj\Excel\ExcelProject.WinFormUI\bin\Debug\ExcelProject.WinFormUI.exe
+C:\Users\bzmen\Desktop\RutRefProj\Excel\ExcelProject.WinFormUI\bin\Debug\ExcelProject.WinFormUI.pdb
+C:\Users\bzmen\Desktop\RutRefProj\Excel\ExcelProject.WinFormUI\bin\Debug\Excel.DataAccess.dll
+C:\Users\bzmen\Desktop\RutRefProj\Excel\ExcelProject.WinFormUI\bin\Debug\Excel.Entities.dll
+C:\Users\bzmen\Desktop\RutRefProj\Excel\ExcelProject.WinFormUI\bin\Debug\ExcelProject.Business.dll
+C:\Users\bzmen\Desktop\RutRefProj\Excel\ExcelProject.WinFormUI\bin\Debug\Excel.DataAccess.pdb
+C:\Users\bzmen\Desktop\RutRefProj\Excel\ExcelProject.WinFormUI\bin\Debug\Excel.Entities.pdb
+C:\Users\bzmen\Desktop\RutRefProj\Excel\ExcelProject.WinFormUI\bin\Debug\ExcelProject.Business.pdb
+C:\Users\bzmen\Desktop\RutRefProj\Excel\ExcelProject.WinFormUI\obj\Debug\ExcelProject.WinFormUI.csprojAssemblyReference.cache
+C:\Users\bzmen\Desktop\RutRefProj\Excel\ExcelProject.WinFormUI\obj\Debug\ExcelProject.WinFormUI.Form1.resources
+C:\Users\bzmen\Desktop\RutRefProj\Excel\ExcelProject.WinFormUI\obj\Debug\ExcelProject.WinFormUI.Properties.Resources.resources
+C:\Users\bzmen\Desktop\RutRefProj\Excel\ExcelProject.WinFormUI\obj\Debug\ExcelProject.WinFormUI.csproj.GenerateResource.cache
+C:\Users\bzmen\Desktop\RutRefProj\Excel\ExcelProject.WinFormUI\obj\Debug\ExcelProject.WinFormUI.csproj.CopyComplete
+C:\Users\bzmen\Desktop\RutRefProj\Excel\ExcelProject.WinFormUI\obj\Debug\ExcelProject.WinFormUI.exe
+C:\Users\bzmen\Desktop\RutRefProj\Excel\ExcelProject.WinFormUI\obj\Debug\ExcelProject.WinFormUI.pdb

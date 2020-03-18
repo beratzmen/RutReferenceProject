@@ -1,0 +1,4 @@
+C:\Users\bzmen\Desktop\RutRefProj\Excel\Excel.Entities\bin\Debug\Excel.Entities.dll
+C:\Users\bzmen\Desktop\RutRefProj\Excel\Excel.Entities\bin\Debug\Excel.Entities.pdb
+C:\Users\bzmen\Desktop\RutRefProj\Excel\Excel.Entities\obj\Debug\Excel.Entities.dll
+C:\Users\bzmen\Desktop\RutRefProj\Excel\Excel.Entities\obj\Debug\Excel.Entities.pdb
